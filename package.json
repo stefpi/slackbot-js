@@ -1,0 +1,22 @@
+{
+  "name": "pi0js",
+  "version": "0.0.1",
+  "description": "nodejs pi bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefpi/slackbot-js.git"
+  },
+  "author": "stefpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefpi/slackbot-js/issues"
+  },
+  "homepage": "https://github.com/stefpi/slackbot-js#readme",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
